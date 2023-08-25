@@ -5,7 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 ## Add a separate executable for each day of the project
 add_executable(day1 day1/main.cpp)
-
 add_executable(day2 day2/main.cpp)
 add_executable(day3 day3/main.cpp)
 add_executable(day4 day4/main.cpp)
